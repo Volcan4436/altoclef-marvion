@@ -1,4 +1,4 @@
-# Altoclef # Anarchy Edition
+# Altoclef [Anarchy Edition]
 
 Plays block game.
 
@@ -28,17 +28,20 @@ or this [Video explanation](https://youtu.be/q5OmcinQ2ck?t=387)
   along the way.
 - Become the terminator: Run away from players while unarmed, gather diamond gear in secret, then return and wreak
   havoc.
+- Experimental Awareness System
 
 ## Download
 Check Releases
-### Long Term Release
 
-
-### Versions
+## Versions
 
 This is a **fabric only** mod, currently only available for **Minecraft 1.20.4**.
 
-To Join Older Versions check out ViaFabric, ViaFabricPlus and MultiConnect
+You can Join Older Versions using these:
+- ViaFabric
+- ViaFabricPlus
+- MultiConnect
+- ViaProxy
 
 ## Goals for this Fork
 - Survive in the Anarchy Enviroment without any User Input
@@ -56,3 +59,6 @@ To Join Older Versions check out ViaFabric, ViaFabricPlus and MultiConnect
 - Improved Water PathFinding
 - Improved Combat
 - Support for as many AntiCheats as possible
+
+## Are you looking for developers?
+We are always looking for developers get in contact in our discord and we can see if you fit the project
