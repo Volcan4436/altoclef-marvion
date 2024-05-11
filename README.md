@@ -22,7 +22,7 @@ or this [Video explanation](https://youtu.be/q5OmcinQ2ck?t=387)
 
 <strike>-  Receive commands from chat whispers via /msg. Whitelist + Blacklist configurable (hereby dubbed the Butler System).
   Here's
-  a [Butler system demo video](https://drive.google.com/file/d/1axVYYMJ5VjmVHaWlCifFHTwiXlFssOUc/view?usp=sharing) <strike>
+  a [Butler system demo video](https://drive.google.com/file/d/1axVYYMJ5VjmVHaWlCifFHTwiXlFssOUc/view?usp=sharing) </strike>
 - Simple config file that can be reloaded via command (check .minecraft directory)
 - Beat the entire game on its own (no user input.)
 - Print the entire bee movie script with signs in a straight line, automatically collecting signs + bridging materials
